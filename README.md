@@ -13,7 +13,7 @@ The dashboard provides multiple views of the data, ranging from high-level KPIs 
 ## 🖼️ Dashboard Views
 
 ### 1. Executive Summary (Purple Theme)
-![Sales Dashboard - Purple](dashboard_purple.png)
+![sales1.jpg](https://github.com/ShireenTalaat/Sales-Analysis-Dashboard-/blob/main/sales1.jpg)
 *Focuses on high-level metrics and daily revenue trends.*
 *   **Total Profit:** 165K
 *   **Total Units Price:** 173K
@@ -22,7 +22,7 @@ The dashboard provides multiple views of the data, ranging from high-level KPIs 
 *   **Total Customers:** 89
 
 ### 2. Detailed Sales & Geographic Analysis
-![Sales Analysis Dashboard - Map](dashboard_map.png)
+![sales2.jpg](https://github.com/ShireenTalaat/Sales-Analysis-Dashboard-/blob/main/sales2.jpg)
 *Focuses on geographic distribution and detailed product profitability.*
 *   **Total Sales Revenue:** 360K
 *   **Total Orders:** 89
@@ -30,7 +30,7 @@ The dashboard provides multiple views of the data, ranging from high-level KPIs 
 *   **Geographic Focus:** Map visualization highlighting sales in North America (powered by Microsoft Azure Maps).
 
 ### 3. Revenue & Country Performance (Blue/Orange Theme)
-![Sales Dashboard - Blue](dashboard_blue.png)
+![sales3.jpg](https://github.com/ShireenTalaat/Sales-Analysis-Dashboard-/blob/main/sales3.jpg)
 *Focuses on revenue generation by product and country.*
 *   **Top Country:** United States (~130K Sales), followed by Australia (~110K).
 *   **Top Product:** Mountain-200 Black, 46 (~75K Sales).
